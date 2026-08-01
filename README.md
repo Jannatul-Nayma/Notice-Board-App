@@ -132,8 +132,6 @@ To install and try the application without building the source code:
 3. Enable **Install from Unknown Sources** (if prompted).
 4. Install and launch the application.
 
-> **APK File:** `NoticeBoard.apk`
-
 ---
 
 # 👩‍💻 Developers
